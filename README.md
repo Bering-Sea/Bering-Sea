@@ -8,7 +8,6 @@ The code is not in this account. It is in two organizations, both free.
 
 [pribiloftraffic.com](https://www.pribiloftraffic.com) watches the sky and the sea around St. Paul and St. George: who is inbound, whether the approach is above minimums, the wind at both stations, and the forecast. The programs are small Docker collectors. They write down what came back, including the times nothing did.
 
-The receiver side started from the [SDR Enthusiasts ADS-B guide](https://sdr-enthusiasts.gitbook.io/ads-b).
 
 ## [Pribilof Hangar](https://github.com/Pribilof-Hangar)
 
