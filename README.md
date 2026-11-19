@@ -1,6 +1,6 @@
 # Aleutian
 
-From St. Paul Island, in the Pribilofs, out in the Bering Sea. Still working there.
+From St. George & St. Paul Island, in the Pribilofs, out in the Bering Sea. Still working there.
 
 The code is not in this account. It is in two organizations, both free.
 
